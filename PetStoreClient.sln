@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "config", "config", "{72027389-8D8D-4C37-A1D0-35892E1E1D63}"
 	ProjectSection(SolutionItems) = preProject
 		directory.packages.props = directory.packages.props
+		README.md = README.md
+		Step1Screenshot.png = Step1Screenshot.png
 	EndProjectSection
 EndProject
 Global
